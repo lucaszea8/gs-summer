@@ -3,4 +3,4 @@
 ### Daniel Barrundia
 ### Lucas Zea
 
-Let's do this!
+Let's do this! Try to pull this dude...
